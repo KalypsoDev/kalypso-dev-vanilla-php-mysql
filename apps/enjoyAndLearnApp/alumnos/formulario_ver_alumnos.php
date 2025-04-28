@@ -22,7 +22,7 @@
         </nav>
     </header>
     <main>
-        <h2>Base de datos: lista de alumnos</h2>
+        <h2 id="databaseTitle">Base de datos: lista de alumnos</h2>
         <section id="resultSection">
             <img src="../../../img/students.png" alt="Alumnos">
             <?php

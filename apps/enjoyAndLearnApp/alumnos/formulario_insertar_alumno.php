@@ -22,7 +22,7 @@
         </nav>
     </header>
     <main>
-        <h2>Base de datos: añadir nuevo alumno</h2>
+        <h2 id="databaseTitle">Base de datos: añadir nuevo alumno</h2>
         <section id="formSection">
             <img src="../../../img/students.png" alt="Alumnos">
             <form action="insertar_alumno.php" method="post">

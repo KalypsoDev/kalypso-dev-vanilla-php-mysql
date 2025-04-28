@@ -70,6 +70,13 @@ h2 {
   padding: 20px;
 }
 
+#databaseTitle {
+  background-color: #d25f49;
+  opacity: 0.7;
+  text-align: center;
+  width: 100%;
+}
+
 #hero {
   width: 100%;
   display: flex;

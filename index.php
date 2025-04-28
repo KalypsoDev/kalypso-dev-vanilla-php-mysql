@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>KalypsoDev</title>
+    <link rel="stylesheet" href="css/index.css">
+</head>
+
+<body>
+    <header>
+        <section id="logoSection">
+            <a href="http://localhost/kalypso-dev-vanilla-php-mysql/"><img src="img/kalypsoLogo.png"
+                    alt="Logo de KalypsoDev" id="logo"></a>
+            <h1>KalypsoDev</h1>
+        </section>
+        <nav>
+            <a href="pages/miHistoria.php">Mi historia</a>
+            <a href="pages/miCV.php">Mi CV</a>
+            <a href="pages/contacto.php">Contacto</a>
+        </nav>
+    </header>
+    <main>
+        <section id="hero">
+            <img src="img/kalypso.png" alt="Kalypso">
+            <section id="welcome">
+                <h2>Código con alma, soluciones con sentido
+                </h2>
+                <p>En KalypsoDev no creo en fórmulas mágicas ni soluciones universales.</p>
+                <p>Cada proyecto es único, y por eso empiezo escuchándote.</p>
+                <p>A partir de ahí, diseño páginas web a medida, con pasión por el código y atención al detalle.</p>
+                <p>Desarrollo con cariño, pensando siempre en lo que realmente necesitas.</p>
+                <p><strong>Porque cuando la tecnología se adapta a ti, el resultado habla por sí solo.</strong></p>
+            </section>
+
+        </section>
+        <section id="appsSection">
+            <section id="introduction">
+                <h2>Aplicaciones desarrolladas</h2>
+                <p>En esta sección se puede consultar la información relativa a las últimas aplicaciones que he
+                    desarrollado.</p>
+            </section>
+            <section id="apps">
+                <section class="appCard">
+                    <h2>Sumito Calculator</h2>
+                    <img src="img/sumitoCalculator.png" alt="Sumito">
+                    <p>Sumito es una app amigable que te ayudará a hacer cálculos sencillos para que te desenvuelvas
+                        mejor
+                        en tu día a día.</p>
+                    <button class="info">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24">
+                            <!-- Icon from Material Design Icons by Pictogrammers - https://github.com/Templarian/MaterialDesign/blob/master/LICENSE -->
+                            <path fill="currentColor"
+                                d="M12 22c5.5 0 10-4.5 10-10S17.5 2 12 2S2 6.5 2 12s4.5 10 10 10M11 7h2v2h-2zm3 10h-4v-2h1v-2h-1v-2h3v4h1z" />
+                        </svg>
+                        <a href="apps/sumitoApp/index.php">Más info sobre la app</a>
+                    </button>
+                </section>
+                <section class="appCard">
+                    <h2>La Biblioteca Mágica</h2>
+                    <img src="img/bibliotecaMagica.png" alt="La biblioteca mágica">
+                    <p>La biblioteca mágica es un lugar pensado especialmente para que pequeños y grandes se diviertan
+                        viajando a mundos mágicos.</p>
+                    <button class="info">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24">
+                            <!-- Icon from Material Design Icons by Pictogrammers - https://github.com/Templarian/MaterialDesign/blob/master/LICENSE -->
+                            <path fill="currentColor"
+                                d="M12 22c5.5 0 10-4.5 10-10S17.5 2 12 2S2 6.5 2 12s4.5 10 10 10M11 7h2v2h-2zm3 10h-4v-2h1v-2h-1v-2h3v4h1z" />
+                        </svg>
+                        <a href="apps/magicLibraryApp/index.php">Más info sobre la app</a>
+                    </button>
+                </section>
+                <section class="appCard">
+                    <h2>Enjoy & Learn</h2>
+                    <img src="img/enjoyAndLearnLanguageSchool.png" alt="Enjoy & Learn, escuela de idiomas">
+                    <p>Enjoy & Learn es una escuela de idiomas en la que tus hijos aprenderán inglés y francés de forma
+                        divertida.</p>
+                    <button class="info">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24">
+                            <!-- Icon from Material Design Icons by Pictogrammers - https://github.com/Templarian/MaterialDesign/blob/master/LICENSE -->
+                            <path fill="currentColor"
+                                d="M12 22c5.5 0 10-4.5 10-10S17.5 2 12 2S2 6.5 2 12s4.5 10 10 10M11 7h2v2h-2zm3 10h-4v-2h1v-2h-1v-2h3v4h1z" />
+                        </svg>
+                        <a href="apps/enjoyAndLearnApp/index.php">Más info sobre la app</a>
+                    </button>
+                </section>
+            </section>
+        </section>
+    </main>
+    <footer>
+        <p>Copyright © 2025 KalypsoDev - All rights reserved</p>
+    </footer>
+</body>
+
+</html>

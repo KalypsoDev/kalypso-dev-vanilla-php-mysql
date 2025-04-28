@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>La Biblioteca Mágica</title>
-    <link rel="stylesheet" href="../../css/magicLibrary.css">
+    <link rel="stylesheet" href="../../css/magicalLibrary.css">
 </head>
 
 <body>
@@ -23,7 +23,7 @@
     </header>
     <main>
         <section id="hero">
-            <img src="../../img/bibliotecaMagica.png" alt="La Biblioteca Mágica">
+            <img src="../../img/magicalLibrary.png" alt="La Biblioteca Mágica">
             <section id="welcome">
                 <h2>Disfruta de todas las historias que nuestra biblioteca tiene para ti
                 </h2>

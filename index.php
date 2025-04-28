@@ -59,7 +59,7 @@
                 </section>
                 <section class="appCard">
                     <h2>La Biblioteca Mágica</h2>
-                    <img src="img/bibliotecaMagica.png" alt="La biblioteca mágica">
+                    <img src="img/magicalLibrary.png" alt="La biblioteca mágica">
                     <p>La biblioteca mágica es un lugar pensado especialmente para que pequeños y grandes se diviertan
                         viajando a mundos mágicos.</p>
                     <button class="info">
@@ -68,7 +68,7 @@
                             <path fill="currentColor"
                                 d="M12 22c5.5 0 10-4.5 10-10S17.5 2 12 2S2 6.5 2 12s4.5 10 10 10M11 7h2v2h-2zm3 10h-4v-2h1v-2h-1v-2h3v4h1z" />
                         </svg>
-                        <a href="apps/magicLibraryApp/index.php">Más info sobre la app</a>
+                        <a href="apps/magicalLibraryApp/index.php">Más info sobre la app</a>
                     </button>
                 </section>
                 <section class="appCard">

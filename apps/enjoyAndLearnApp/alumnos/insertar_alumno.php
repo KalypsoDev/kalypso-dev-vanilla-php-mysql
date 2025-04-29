@@ -35,7 +35,7 @@
     if ($datos->affected_rows > 0) {
         echo '<script>window.alert("Alumno insertado correctamente en la base de datos"); window.location.href="../index.php"</script>';
     } else {
-        echo '<script>window.alert("Alumno NO insertado correctamente en la base de datos"); window.location.href="../pages/formulario_insertar_alumno.php"</script>';
+        echo '<script>window.alert("Alumno NO insertado correctamente en la base de datos"); window.location.href="formulario_insertar_alumno.php"</script>';
     }
 
     $conexion->close();

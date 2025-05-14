@@ -36,14 +36,14 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 <body>
     <header>
         <section id="logoSection">
-            <a href="http://localhost/kalypso-dev-vanilla-php-mysql/"><img src="../../img/kalypsoLogo.png"
-                    alt="Logo de KalypsoDev" id="logo"></a>
-            <h1>KalypsoDev</h1>
+            <a href="index.php"><img src="../../img/sumito.png" alt="Logo de Sumito" id="logo"></a>
+            <h1>Sumito Calculator</h1>
         </section>
         <nav>
-            <a href="../../pages/miHistoria.php">Mi historia</a>
-            <a href="../../pages/miCV.php">Mi CV</a>
-            <a href="../../pages/contacto.php">Contacto</a>
+            <a href="../../index.html">KalypsoDev</a>
+            <a href="../../pages/mi-historia.html">Mi historia</a>
+            <a href="../../pages/mi-cv.html">Mi CV</a>
+            <a href="../../pages/contacto.html">Contacto</a>
         </nav>
     </header>
     <main>

@@ -33,7 +33,7 @@
     $datos->execute();
 
     if ($datos->affected_rows > 0) {
-        echo '<script>window.alert("Curso insertado correctamente en la base de datos"); window.location.href="../index.php"</script>';
+        echo '<script>window.alert("Curso insertado correctamente en la base de datos"); window.location.href="../index.html"</script>';
     } else {
         echo '<script>window.alert("curso NO insertada correctamente en la base de datos"); window.location.href="formulario_insertar_curso.php"</script>';
     }

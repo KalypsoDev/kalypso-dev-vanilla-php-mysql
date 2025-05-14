@@ -11,14 +11,15 @@
 <body>
     <header>
         <section id="logoSection">
-            <a href="http://localhost/kalypso-dev-vanilla-php-mysql/apps/enjoyAndLearnApp/"><img
-                    src="../../../img/enjoyAndLearnLanguageSchoolLogo.png" alt="Logo de KalypsoDev" id="logo"></a>
+            <a href="../index.html"><img src="../../../img/enjoyAndLearnLanguageSchoolLogo.png"
+                    alt="Logo de Enjoy and Learn" id="logo"></a>
             <h1>Enjoy And Learn Language School</h1>
         </section>
         <nav>
-            <a href="../../../pages/miHistoria.php">Mi historia</a>
-            <a href="../../../pages/miCV.php">Mi CV</a>
-            <a href="../../../pages/contacto.php">Contacto</a>
+            <a href="../../../index.html">KalypsoDev</a>
+            <a href="../../../pages/mi-historia.html">Mi historia</a>
+            <a href="../../../pages/mi-cv.html">Mi CV</a>
+            <a href="../../../pages/contacto.html">Contacto</a>
         </nav>
     </header>
     <main>
